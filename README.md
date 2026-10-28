@@ -1,27 +1,26 @@
-<!-- ======================================================= -->
-<!--              NIRMAL BOROLE | GITHUB PROFILE              -->
-<!-- ======================================================= -->
 
 <div align="center">
 
-# 👋 Hey, I'm Nirmal Borole
-### 🚀 AI/ML Developer | Full-Stack Developer | Engineering Student
+# 👋 Hey, I'm **Nirmal**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;AI%2FML+%7C+Full-Stack+Development;Turning+Ideas+Into+Real+Projects;Learning+Today%2C+Building+Tomorrow" alt="Typing SVG" />
+### 🤖 AI Engineer · 🌐 Full Stack Developer · ☁️ AWS & GenAI Enthusiast
 
-<p>
-  <a href="https://github.com/IAMNIRMALNEO0715">
-    <img src="https://img.shields.io/badge/GitHub-IAMNIRMALNEO0715-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=IAMNIRMALNEO0715&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=900&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+AI+Agents+that+actually+do+things;Turning+Ideas+into+Real+Products;Full+Stack+%7C+AI+%7C+Cloud+%7C+Databases;Building+Intelligent+Applications+with+GenAI;From+Frontend+to+Backend+to+Deployment" alt="Typing SVG" />
 
-📍 India | 🎓 Information Technology Engineering  
-💡 Interested in Artificial Intelligence, Machine Learning, Web Development, and Real-World Problem Solving.
+<br/>
+
+<a href="https://github.com/IAMNEONIRMAL2007">
+<img src="https://img.shields.io/badge/GitHub-IAMNEONIRMAL2007-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/IAMNEONIRMAL2007?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2E9EF7?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
